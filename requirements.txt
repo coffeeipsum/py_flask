@@ -12,7 +12,7 @@ cookiecutter==1.6.0
 cookiejar==0.0.1
 disqus==0.0.4
 Django==1.8.9
-django-debug-toolbar==1.8
+django-debug-toolbar==1.11.1
 django-disqus==0.5
 django-emoticons==1.1.2
 django-forms-bootstrap==3.0.1
